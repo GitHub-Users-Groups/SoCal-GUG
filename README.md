@@ -36,5 +36,5 @@
 
 
 ## Organizers
-- Ravi Gadhia -- @ravigadhia
-- Jasmine Dahilig -- @jazzyfresh
+- Ravi Gadhia -- [@ravigadhia](https://github.com/ravigadhia)
+- Jasmine Dahilig -- [@jazzyfresh](https://github.com/jazzyfresh)
