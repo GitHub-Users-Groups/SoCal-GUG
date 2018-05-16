@@ -25,6 +25,11 @@
   - Speaker outreach
   - Venue planning
 
+## Speaker Content Guidelines
+- Any length (lightning, short, long)
+- Focus on learning & sharing ideas, experiences, best practices
+- Relevant domains: SW/HW, development, DevOps, innovation, documentation, novel uses of GitHub
+- No one-sided sales pitches.  Balanced product & solution reviews are OK.
 
 ## Venues
 - [Factual](venues/Factual.md)
