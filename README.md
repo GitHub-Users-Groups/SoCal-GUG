@@ -1,4 +1,4 @@
-# SoCal-GUG
+# SoCal-GitHub Users' Group
 
 ## Goals:
 - Community Building around use of GitHub
@@ -9,25 +9,27 @@
 
 
 ## Upcoming Events
-- [May 23 @ Factual](Events/1_May23.md)
+- [May 23 @ Factual](events/1_May23.md)
 
 
 ## Past Events
+- none
 
-
-## Roles 
-- Host
-- MC
-- Speaker
-- Organizer
+## Roles
+ Here are some ways you can get involved.
+- __Attend__ and __participate__
+- __Host__ an event.
+- As __MC__, introduce speakers & manage discussion flow.  
+- Share your experiences as a __Speaker__
+- Be an __Organizer__
   - Speaker outreach
   - Venue planning
 
 
 ## Venues
-- Factual
+- [Factual](venues/Factual.md)
 
 
 ## Organizers
-- Ravi Gadhia
-- Jasmine Dahilig
+- Ravi Gadhia -- @ravigadhia
+- Jasmine Dahilig -- @jazzyfresh
