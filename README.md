@@ -9,11 +9,11 @@
 
 
 ## Upcoming Events
-- [May 23 @ Factual](events/1_May23.md)
+- TBD
 
 
 ## Past Events
-- none
+- [May 23 @ Factual](events/1_May23.md)
 
 ## Roles
  Here are some ways you can get involved.
