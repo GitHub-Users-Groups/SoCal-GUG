@@ -9,7 +9,7 @@
 
 
 ## Upcoming Events
-- TBD
+- [July 25 @ Factual](events/2_July25.md)
 
 
 ## Past Events
