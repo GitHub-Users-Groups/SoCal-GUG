@@ -9,10 +9,11 @@
 
 
 ## Upcoming Events
-- [July 25 @ Factual](events/2_July25.md)
+- TBD
 
 
 ## Past Events
+- [July 25 @ Factual](events/2_July25.md)
 - [May 23 @ Factual](events/1_May23.md)
 
 ## Roles
