@@ -9,8 +9,7 @@
 
 
 ## Upcoming Events
-- TBD
-
+- [October 10 @ OpenX](events/3_Oct10.md)
 
 ## Past Events
 - [July 25 @ Factual](events/2_July25.md)
@@ -34,6 +33,7 @@
 
 ## Venues
 - [Factual](venues/Factual.md)
+- [OpenX](venues/OpenX.md)
 
 
 ## Organizers
