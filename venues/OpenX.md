@@ -8,6 +8,9 @@
 
 - _Helpful Image:_ 
 
+![alt text](../images/map_OpenX.png "OpenX Map")
+
+
 - _Company Profile:_
 
 > OpenX Technologies, Inc. operates the world’s largest independent advertising exchange connecting tens of thousands of top brands with consumers across the most trafficked websites and mobile apps globally. The company stands uniquely alone in the marketplace as the recognized leader in quality, scale, and performance, delivering value across every type of connected screen and format.  OpenX serves more than 30,000 of the world’s most recognized brands, more than 1,200 websites and more than 2,000 premium mobile apps.
